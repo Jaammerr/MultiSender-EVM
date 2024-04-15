@@ -1,0 +1,9 @@
+eth_rpc: https://mainnet.infura.io/v3
+op_rpc: https://rpc.ankr.com/optimism
+bsc_rpc: https://bsc-dataseed.binance.org
+polygon_rpc: https://polygon-rpc.com
+zk_era_rpc: https://mainnet.era.zksync.io
+arb_rpc: https://arbitrum-mainnet.infura.io
+avax_rpc: https://rpc.ankr.com/avalanche
+base_rpc: https://1rpc.io/base
+max_priority_fee_per_gas: 0.5
