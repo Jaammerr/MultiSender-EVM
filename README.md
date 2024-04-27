@@ -7,7 +7,7 @@
 
 💬 CHAT: https://t.me/JamBitChat
 
-💰 DONATION EVM ADDRESS: 0x08e3fdbb830ee591c0533C5E58f937D312b07198
+💰 DONATION EVM ADDRESS: 0xe23380ae575D990BebB3b81DB2F90Ce7eDbB6dDa
 
 ## 📝 Description
 ``` This script allows you to send stablecoins to multiple addresses from your main wallet. The main advantage is that the sending occurs through the Bungee Socket contract, so the transaction fee will be minimal and it is impossible to find out the original address of the sender. ```
